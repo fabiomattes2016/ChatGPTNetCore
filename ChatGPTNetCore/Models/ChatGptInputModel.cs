@@ -6,7 +6,6 @@
         {
             prompt = $"Top 5 medicamentos para: {_prompt}.";
             model = "text-davinci-003";
-            //model = "gpt-3.5-turbo";
             max_tokens = 1500;
             temperature = 0.8m;
         }
