@@ -5,10 +5,7 @@ C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\C
 C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\ChatGPTNetCore.runtimeconfig.json
 C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\ChatGPTNetCore.dll
 C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\ChatGPTNetCore.pdb
-C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\OpenAI_API.dll
 C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\gpnet\Documents\CSharp\ChatGPTNetCore\ChatGPTNetCore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
