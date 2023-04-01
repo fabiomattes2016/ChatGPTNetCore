@@ -34,7 +34,17 @@ namespace ChatGPTNetCore.Controllers
 
             var result = await response.Content.ReadFromJsonAsync<ChatGptViewModel>();
 
-            var promptResponse = result.choices.First();
+            Choice? promptResponse = null;
+
+            if (result is not null)
+            {
+                promptResponse = result.choices.First();
+            }
+
+            if(promptResponse is null)
+            {
+                return NotFound("Ocorreu algum problema e sua busca não retornou valores");
+            }
 
             return Ok(promptResponse.text.Replace("\n", "").Replace("\t", ""));
         }
