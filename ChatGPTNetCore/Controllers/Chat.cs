@@ -20,7 +20,7 @@ namespace ChatGPTNetCore.Controllers
         [HttpGet("Ask")]
         public async Task<IActionResult> Ask(string query)
         {
-            string apikey = "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";
+            string apikey = "sua-api-key";
 
             _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apikey);
 
