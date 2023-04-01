@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ILSeIMZkVqqeVx0KM6CX/zSNfvKgvG3CjxwiqCeBWls=",
+  "Source": "ChatGPTNetCore",
+  "BasePath": "_content/ChatGPTNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
